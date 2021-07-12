@@ -47,3 +47,6 @@
 ### 9)The width of the traces and resistence faced by the electric current is directly propotional TRUE or FALSE?
  ANS_9:False
  
+### 10)Which tool is used to create a Ground Plane in Layout Designing?
+ Options- Line,Rec,Polygon,Pinswap
+ ANS_10:Polygon.
