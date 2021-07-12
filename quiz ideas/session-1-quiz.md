@@ -26,6 +26,12 @@
 
    ANS_5: True or False
    
-         correct answer - True
+         correct answer- True
          (add image and short explanation)
+      
+### 6) Around how many layers do PCBs of mobile-phones have ?
+
+   ANS_6: options are- 4,8,12,16
+   
+         correct answer- 12
 
