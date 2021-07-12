@@ -44,4 +44,6 @@
  Options: Distable,Monostable,Astable,Bistable
  ANS_8:Astable
  
-
+### 9)The width of the traces and resistence faced by the electric current is directly propotional TRUE or FALSE?
+ ANS_9:False
+ 
