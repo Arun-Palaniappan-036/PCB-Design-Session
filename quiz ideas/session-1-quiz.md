@@ -10,7 +10,7 @@
    
    ![image](https://user-images.githubusercontent.com/85285913/125287890-19c74f00-e33b-11eb-8060-a39bc15aa7c6.png)
    
-### 3) (OPTIONAL) which of the following is NOT a use of 555 timer circuit ? -ARUN
+### 3) which of the following is NOT a use of 555 timer circuit ? -ARUN
 
    ANS_3: the 4 options are- timer delay, pulse generation, oscillator, resonator 
    
@@ -29,7 +29,7 @@
          correct answer- True
          (add image and short explanation)
       
-### 6) Around how many layers do PCBs of mobile-phones have ? -ARUN
+### 6) Around how many layers do PCBs of mobile-phones have ?
 
    ANS_6: options are- 4,8,12,16
    
@@ -37,11 +37,6 @@
 
 ![image](https://www.pcbcart.com/Uploads/Editor/2017-11-13/5a09296db92ef.jpg)
 
-### 7) Which of the following is not an advantage of having a multilayered PCB ? -ARUN
-
-   ANS_7: options are- Smaller size, Lighter weight, Increased durability, Lower production time
-   
-          correct answer- Lower Production time
-
-
+### 7) What is the role of Via in PCB layout designing?
+   ANS_7: Via is used to connect the different layers in PCB routing
 
