@@ -39,4 +39,9 @@
 
 ### 7) What is the role of Via in PCB layout designing?
    ANS_7: Via is used to connect the different layers in PCB routing
+   
+### 8)In which mode does the Blinky board circuit of 555 Timer works
+ Options: Distable,Monostable,Astable,Bistable
+ ANS_8:Astable
+ 
 
