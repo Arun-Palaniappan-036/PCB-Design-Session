@@ -42,6 +42,7 @@
    
 ### 8)In which mode does the Blinky board circuit of 555 Timer works
  Options: Distable,Monostable,Astable,Bistable
+ 
  ANS_8:Astable
  
 ### 9)The width of the traces and resistence faced by the electric current is directly propotional TRUE or FALSE?
@@ -49,4 +50,5 @@
  
 ### 10)Which tool is used to create a Ground Plane in Layout Designing?
  Options- Line,Rec,Polygon,Pinswap
+ 
  ANS_10:Polygon.
