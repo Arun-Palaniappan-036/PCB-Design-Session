@@ -37,18 +37,22 @@
 
 ![image](https://www.pcbcart.com/Uploads/Editor/2017-11-13/5a09296db92ef.jpg)
 
-### 7) What is the role of Via in PCB layout designing?
-   ANS_7: Via is used to connect the different layers in PCB routing
+### 7) what is not an advantage of having multilayered pcbs ? - ARUN
+
+   ANS_7: time of production
+
+### 8) What is the role of Via in PCB layout designing?
+   ANS_8: Via is used to connect the different layers in PCB routing
    
-### 8)In which mode does the Blinky board circuit of 555 Timer works
+### 9)In which mode does the Blinky board circuit of 555 Timer works
  Options: Distable,Monostable,Astable,Bistable
  
- ANS_8:Astable
+ ANS_9:Astable
  
-### 9)The width of the traces and resistence faced by the electric current is directly propotional TRUE or FALSE?
- ANS_9:False
+### 10)The width of the traces and resistence faced by the electric current is directly propotional TRUE or FALSE?
+ ANS_10:False
  
-### 10)Which tool is used to create a Ground Plane in Layout Designing?
- Options- Line,Rec,Polygon,Pinswap
+### 11)Which tool is used to create a Ground Plane in Layout Designing?
+ Options- Plane,Rec,Polygon,Make layer
  
- ANS_10:Polygon.
+ ANS_11:Polygon.
